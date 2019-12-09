@@ -1,0 +1,138 @@
+body {
+    background-image: url(fond.jpg) ;
+	font-family:calibri;
+}
+
+header {
+	color: white;
+    text-align: left;
+	font-family:Verdana;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: black;
+	height: 60px;
+	line-height: 60px;
+	width: 100%;
+	box-shadow: 0px 16px 18px blue;
+	font-size:20px;
+}
+
+
+h1{
+	display:inline-block;
+	margin-bottom:7px;
+	vertical-align: bottom;
+}
+
+nav a{
+	float:left;
+}
+
+nav li {
+	list-style: none; 
+	font-size:20px;
+	float:right;
+	text-align:left;
+	padding:0 20px; /*espace entre les liens ACCUEIL CINEMAS FILMS SEANCES */
+}
+
+
+}
+a:link{
+	color:white;
+	text-decoration:none;
+}
+a:visited{
+	color:red;
+	text-decoration:none;
+}
+a:hover{
+	color:pink;
+	text-decoration:none;
+}
+a:active{
+	color:green;
+	text-decoration:none;
+}	
+
+footer{
+	text-align:center;
+	font-size:18px;
+	color:white;
+	background-color: black;
+	width:500px;
+	margin:auto;
+	margin-top:50px;
+}
+
+#lien{
+		
+	color: black;
+	
+}
+#lien:link{
+	color:blue;
+	text-decoration:none;
+}
+#lien:visited{
+	color:blue;
+	text-decoration:none;
+}
+#lien:hover{
+	color:pink;
+	text-decoration:none;
+}
+#lien:active{
+	color:green;
+	text-decoration:none;
+}
+
+div.container {
+	margin:auto;
+	color: white;
+	width:500px;
+	text-align: center;
+	font-family:Verdana;
+	font-size:15px;
+	border-radius:200px;
+	box-shadow:0px 16px 18px blue;
+	background-color: black;
+	line-height: 30px;
+	margin-top:80px;
+	padding-bottom:5px;
+}
+
+div.article{
+	text-align:left;
+	color: white;
+	font-family:Verdana;
+	font-size:20px;
+	color: black;
+	background-color: white;
+	width:auto;
+	margin:auto;
+	padding-right:10px;
+	padding-left:10px;
+	margin-top:15px;
+}
+
+
+
+
+section{
+	color: black;
+    text-align: left;
+	font-family:Verdana;
+	font-size:18px;
+	border-radius:10px;
+	box-shadow:0px 4px 6px black;
+	background-color: white;
+}
+
+#fleche{
+	position:fixed;
+	bottom:90px;
+	right:30 px;
+	padding-right: 200px
+}

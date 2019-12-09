@@ -1,0 +1,13 @@
+---------------------------------------------------------------------
+     Paramètres de connexion au serveur de base de données MySQL     
+---------------------------------------------------------------------
+
+
+Serveur MySQL : localhost 
+Login : riachiw 
+Mot de passe : 3610 
+
+
+Gestion des bases : http://etu-php-mysql.iut2.upmf-grenoble.fr/phpMyAdminETU/
+
+---------------------------------------------------------------------

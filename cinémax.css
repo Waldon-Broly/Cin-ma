@@ -1,0 +1,153 @@
+body {
+    background-image: url(fond.jpg) ;
+	font-family:calibri;
+	padding-top:50px;
+	margin-top:30px;
+}
+
+
+
+header {
+	color: white;
+    text-align: left;
+	font-family:Verdana;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: black;
+	height: 60px;
+	line-height: 60px;
+	width: 100%;
+	box-shadow: 0px 16px 18px blue;
+	font-size:20px;
+}
+
+
+
+h1{
+	display:inline-block;
+	margin-bottom:7px;
+	vertical-align: bottom;
+}
+
+
+
+nav li {
+	list-style: none; 
+	font-size:20px;
+	float:right;
+	text-align:left;
+	padding:0 20px; /*espace entre les liens ACCUEIL CINEMAS FILMS SEANCES */
+}
+
+nav a{
+	float:left;
+}
+
+}
+a:link{
+	color:white;
+	text-decoration:none;
+}
+a:visited{
+	color:red;
+	text-decoration:none;
+}
+a:hover{
+	color:pink;
+	text-decoration:none;
+}
+a:active{
+	color:green;
+	text-decoration:none;
+}	
+
+.article{
+	text-align:left;
+	float:center;
+	padding-left:10px;
+	padding-right:10px;
+	color: white;
+	font-family:Verdana;
+	font-size:20px;
+	color: black;
+	box-shadow:0px 12px 10px blue;
+	background-color: white;
+}
+
+div.recherche{
+	text-align:center;
+	padding-left:10px;
+	padding-right:10px;
+	color: white;
+	font-family:Verdana;
+	font-size:20px;
+	color: black;
+	box-shadow:0px 12px 10px blue;
+	background-color: white;
+	margin:auto;
+	width:900px; 
+
+}
+	
+	
+	
+	
+	
+footer{
+	text-align:center;
+	font-size:18px;
+	color:white;
+	background-color: black;
+	width:500px;
+	margin:auto;
+}
+
+#lien{
+		
+	color: black;
+	
+}
+#lien:link{
+	color:blue;
+	text-decoration:none;
+}
+#lien:visited{
+	color:blue;
+	text-decoration:none;
+}
+#lien:hover{
+	color:pink;
+	text-decoration:none;
+}
+#lien:active{
+	color:green;
+	text-decoration:none;
+}
+
+.container {
+	width: 900px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+    text-align: center;
+	font-family:Verdana;
+	font-size:30px;
+	border-radius:200px;
+	box-shadow:0px 16px 18px blue;
+	background-color: black;
+	margin-top:130px;
+
+}
+
+
+#fleche{
+	position:fixed;
+	bottom:90px;
+	right:30 px;
+	padding-right: 200px
+}
+	
+
